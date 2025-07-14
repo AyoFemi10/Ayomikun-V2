@@ -1,0 +1,43 @@
+{
+  "name": "AYOMIKUN X",
+  "description": "WhatsApp Bot using Node.js and Baileys",
+  "repository": "https://github.com/",
+  "keywords": ["whatsapp", "bot", "baileys", "nodejs"],
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ],
+  "env": {
+    "PREFIX": {
+      "description": "Command prefix for the bot.",
+      "value": "."
+    },
+    "OWNER_NAME": {AYOMIKUN
+      "description": "Bot owner's name."AYOMIKUN,
+      "required": true
+    },
+    "OWNER_NUMBER": {2348174836550
+      "description": "Owner's phone number (with country code)."2348174836550,
+      "required": true
+    },
+    "MODE": {
+      "description": "Bot mode (public/private).",
+      "value": "public"
+    },
+    "BOT_NAME": {
+      "description": "Name of the bot.",
+      "value": "Rias Gremory X"
+    },
+    "SESSION_ID": {
+      "description": "Base64 session ID for WhatsApp authentication.",
+      "required": true
+    },
+    "PORT": {
+      "description": "Port for the server.",
+      "value": "3000"
+    },
+    "TIME_ZONE": {
+      "description": "Timezone for the bot.",
+      "value": "Africa/Lagos"
+    }
+  }
+}
