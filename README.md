@@ -1,5 +1,4 @@
 # Ayomikun-V2
-# Ayomikun-V2
 
 ---
 
@@ -31,7 +30,7 @@
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/2349017769213)
+📬 [`Contact on WhatsApp`](https://wa.me/2348174836550)
 
 ---
 
