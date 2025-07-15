@@ -18,7 +18,7 @@
 ---
 
 ## 📦 Deploy Now
-📬 [`Contact on telegram to buy panel if you dont have`](https://t.me/saturonewgc)
+📬 [`Contact on telegram to buy panel if you dont have`](https://t.me/saturotech)
 ---
 
 
