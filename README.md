@@ -135,7 +135,27 @@ For full WhatsApp functionality, deploy on:
 - Containers with proper browser dependencies
 
 ## License
+MIT License - see LICENSE file for details
 
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## Support
+
+For issues and questions:
+- Open an issue on GitHub
+- Check the troubleshooting section
+- Review WhatsApp Web.js documentation
+
+## Acknowledgments
+
+- Built with [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+- UI components from [shadcn/ui](https://ui.shadcn.com)
 ---
 
 ## 💡 Fork This Project
