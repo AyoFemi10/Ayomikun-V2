@@ -1,5 +1,4 @@
 # Ayomikun-V2
-# Ayomikun X WhatsApp Bot
 
 A comprehensive WhatsApp bot with entertainment, moderation, and gaming features built using Node.js and whatsapp-web.js. Features a React-based dashboard for monitoring and management.
 
