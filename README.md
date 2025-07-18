@@ -39,7 +39,7 @@ A comprehensive WhatsApp bot with entertainment, moderation, and gaming features
 
 ## Installation
 
-1. Clone the repository:git clone https://github.com/your-username/ayomikun-whatsapp-bot.git
+1. Clone the repository:git clone https://github.com/your-AyoFemi10/ayomikun-v2whatsapp-bot.git
 cd ayomikun-whatsapp-bot
 
 2. Install dependencies:npm install
@@ -57,7 +57,7 @@ The bot can be configured through environment variables:
 
 - BOT_NAME - Name of the bot (default: "Ayomikun X")
 - OWNER_NAME - Owner's name (default: "AYOMIKUN")
-- OWNER_NUMBER - Owner's WhatsApp number
+- OWNER_NUMBER - Owner's WhatsApp number(default: 2948162895550
 - PREFIX - Command prefix (default: ".")
 - MODE - Bot mode: "public" or "private"
 - PORT - Server port (default: 5000)
@@ -185,7 +185,7 @@ For issues and questions:
   </a>
 </p>
 
-📬 [`Contact on WhatsApp`](https://wa.me/2348174836550)
+📬 [`Contact on WhatsApp`](https://wa.me/2348162895550)
 
 ---
 
