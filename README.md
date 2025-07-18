@@ -5,28 +5,26 @@ A comprehensive WhatsApp bot with entertainment, moderation, and gaming features
 ## Features
 
 ### Entertainment Commands
-- 🃏 Jokes - Random jokes to lighten the mood
-- 🎯 Fun Facts - Interesting trivia and facts
-- 💖 Rizz Lines - Conversation starters and pickup lines
-- 📖 Quotes - Inspirational and motivational quotes
-- 📚 Bible/Quran - Religious verses and references
+- 🃏 Jokes 
+- 🎯 Fun Facts
+- 💖 Rizz Lines 
 
 ### Gaming Commands
-- 🎮 Tic-Tac-Toe - Play the classic game with friends
-- 🔤 Word Chain Games - Test your vocabulary skills
-- 📊 Game Statistics - Track wins, losses, and draws
+- 🎮 Tic-Tac-Toe
+- 🔤 Word Chain Games 
+- 📊 Game Statistics
 
 ### Moderation Features
-- 🚫 Block/Unblock - Manage blocked contacts
-- 🏠 Ban/Unban Groups - Control group access
-- 👥 Member Management - Kick, add, and promote members
-- 📢 Tag All - Mention all group members
+- 🚫 Block/Unblock 
+- 🏠 Ban/Unban Groups 
+- 👥 Member Management 
+- 📢 Tag All
 
 ### Utility Commands
-- 🏓 Ping - Check bot responsiveness
-- ⏱️ Runtime - View bot uptime statistics
-- 💰 Payment - Payment processing features
-- 🔧 Session Management - Bot session controls
+- 🏓 Ping
+- ⏱️ Runtime
+- 💰 Payment
+- 🔧 Session Management
 
 ## Technology Stack
 
@@ -41,14 +39,10 @@ A comprehensive WhatsApp bot with entertainment, moderation, and gaming features
 
 1. Clone the repository:git clone https://github.com/your-AyoFemi10/ayomikun-v2whatsapp-bot.git
 cd ayomikun-whatsapp-bot
-
 2. Install dependencies:npm install
-
 3. Set up environment variables:cp .env.example .env
 # Edit .env with your configuration
-
 4. Start the development server:npm run dev
-
 5. Scan the QR code with your WhatsApp mobile app to authenticate
 
 ## Configuration
@@ -73,34 +67,6 @@ Access the web dashboard at http://localhost:5000 to:
 ## Commands
 
 All commands start with the configured prefix (default: `.`):
-
-### Basic Commands
-- .ping - Check if bot is responsive
-- .menu - Show available commands
-- .runtime - Show bot uptime
-
-### Entertainment
-- .jokes - Get a random joke
-- .fun - Get a fun fact
-- .rizz - Get a pickup line
-- .quotes - Get an inspirational quote
-- .bible - Get a Bible verse
-- .quran - Get a Quran verse
-
-### Games
-- .tictactoe - Start a tic-tac-toe game
-- .wcg - Start word chain game
-- .games - View available games
-
-### Moderation (Owner/Admin only)
-- .block [number] - Block a contact
-- .unblock [number] - Unblock a contact
-- .bangroup - Ban current group
-- .unbangroup [groupId] - Unban a group
-- .kick @user - Kick a group member
-- .add [number] - Add member to group
-- .promote @user - Promote member to admin
-- .tagall [message] - Tag all group members
 
 ## Development
 
