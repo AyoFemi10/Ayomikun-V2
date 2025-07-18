@@ -37,8 +37,7 @@ A comprehensive WhatsApp bot with entertainment, moderation, and gaming features
 
 ## Installation
 
-1. Clone the repository:git clone https://github.com/your-AyoFemi10/ayomikun-v2whatsapp-bot.git
-cd ayomikun-whatsapp-bot
+1. Clone the repository:git clone https://github.com/your-AyoFemi10/ayomikun-v2whatsapp-bot.git cd ayomikun-whatsapp-bot
 2. Install dependencies:npm install
 3. Set up environment variables:cp .env.example .env
 # Edit .env with your configuration
